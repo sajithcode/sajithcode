@@ -11,11 +11,11 @@ Full-stack Developer | Exploring Blockchain & Cloud ⚡
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sajithcode&label=Profile%20views&color=0e75b6&style=flat" alt="sajithcode" /> 
 </p>
-<p align="left"> 
+<!-- <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sajithcode" alt="sajithcode" />
   </a> 
-</p>
+</p> -->
 
 ---
 
@@ -63,16 +63,21 @@ Full-stack Developer | Exploring Blockchain & Cloud ⚡
 ---
 
 ### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajithcode&show_icons=true&locale=en&layout=compact" alt="sajithcode" />
+
+<!-- <p>
+  <img align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajithcode&layout=compact&show_icons=true&theme=transparent"
+  />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajithcode&show_icons=true&locale=en" alt="sajithcode" />
-</p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=sajithcode&show_icons=true&theme=transparent"
+  />
+</p> -->
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajithcode&" alt="sajithcode" />
+  <img align="center" src="https://streak-stats.demolab.com?user=sajithcode" alt="sajithcode streak" />
 </p>
 
 ---
