@@ -1,6 +1,6 @@
 #  About Me
 
-Hi 👋 I'm **Sajith Sampath**  
+Hi 👋 I'm **Sajith R. Sampath**  
 An undergraduate at **Sabaragamuwa University of Sri Lanka**, passionate about **backend development** and building **scalable web applications**.  
 Currently working with **.NET, Node.js, React, and databases**, and aspiring to grow as a **DevOps Engineer**.
 
@@ -72,5 +72,6 @@ Currently working with **.NET, Node.js, React, and databases**, and aspiring to 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=sajithcode&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajithcode&theme=github-dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
