@@ -2,7 +2,7 @@
 
 Hi 👋 I'm **Sajith R. Sampath**  
 An undergraduate at **Sabaragamuwa University of Sri Lanka**, passionate about **backend development** and building **scalable web applications**.  
-Currently working with **.NET, Node.js, React, and databases**, and aspiring to grow as a **DevOps Engineer**.
+Currently working with **.NET, Express.js, React, and databases**, and aspiring to grow as a **DevOps Engineer**.
 
 ---
 
